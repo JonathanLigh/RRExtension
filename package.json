@@ -1,5 +1,5 @@
 {
-  "name": "Reddit Recommendation Extension",
+  "name": "RRExtension",
   "version": "0.1.0",
   "description": "Description",
   "main": "src/js/main.js",
